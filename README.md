@@ -193,8 +193,6 @@ PRs welcome! If you’re proposing big changes, open an issue to discuss your pl
 
 ## 📄 License
 
-TBD — add your preferred license (e.g., MIT) here.
-
 ---
 
 ## 🙌 Acknowledgements
@@ -206,3 +204,4 @@ TBD — add your preferred license (e.g., MIT) here.
 ---
 
 > If you build something cool with Clozyt.flo—screenshots, demos, or a theme pack—share it! We’d love to see your take on swipe-native fashion discovery.
+
